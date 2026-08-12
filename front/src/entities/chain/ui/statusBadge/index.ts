@@ -1,1 +1,0 @@
-export {ChainStatusBadge} from './ChainStatusBadge';
